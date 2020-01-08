@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="WebAssemblyTest1">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>
